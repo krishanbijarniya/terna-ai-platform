@@ -5,7 +5,7 @@ An enterprise-grade, end-to-end industrial machine learning and analytics platfo
 The platform cleanses raw grid maintenance logs, engineers leakage-free rolling features and risk scores, trains four machine learning models, exposes REST API prediction services via FastAPI, and presents an interactive six-page dashboard in Streamlit.
 
 ---
-
+Deployed at https://terna-ai-platform-msfn6wl5ifyrq6nulp6t4d.streamlit.app/Asset_Explorer
 ## 🏗️ System Architecture
 
 ```mermaid

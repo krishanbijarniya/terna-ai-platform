@@ -1,0 +1,208 @@
+region,plant_type,source,connection_status,power_mw,num_requests
+PUGLIA,FER,Solare,Progetti con nulla osta,17330.55864,410
+PUGLIA,FER,Eolico on-shore,Progetti con nulla osta,13770.327,243
+PUGLIA,FER,Eolico off-shore,STMG accettate,13513.0,16
+SICILIA,FER,Solare,Progetti con nulla osta,12646.42329,229
+SICILIA,FER,Eolico off-shore,STMG accettate,12265.75,15
+SICILIA,FER,Solare,STMG accettate,10550.97092,246
+PUGLIA,FER,Solare,STMG accettate,9250.85494,223
+PUGLIA,FER,Eolico on-shore,STMG accettate,8411.99,164
+SARDEGNA,FER,Eolico on-shore,STMG accettate,6731.145,97
+SARDEGNA,FER,Eolico off-shore,STMG accettate,6684.0,14
+SICILIA,FER,Eolico on-shore,STMG accettate,6223.11,114
+SICILIA,FER,Solare,Progetti in valutazione,6080.85334,142
+SARDEGNA,FER,Solare,STMG accettate,5915.27464,159
+SARDEGNA,FER,Solare,Progetti con nulla osta,5742.62132,128
+PUGLIA,FER,Eolico on-shore,Progetti in valutazione,5490.305,85
+SARDEGNA,FER,Eolico off-shore,STMG da accettare,5295.0,5
+SICILIA,FER,Eolico on-shore,Progetti con nulla osta,5020.15,106
+PUGLIA,FER,Solare,Progetti in valutazione,4914.73454,101
+SICILIA,FER,Solare,STMD/Contratti,4497.2686,68
+BASILICATA,FER,Solare,STMG accettate,4195.01161,195
+SICILIA,FER,Eolico off-shore,Progetti in valutazione,4183.25,6
+SARDEGNA,FER,Eolico on-shore,Progetti con nulla osta,4152.325,67
+BASILICATA,FER,Eolico on-shore,STMG accettate,4053.2,82
+PUGLIA,FER,Eolico on-shore,STMG da accettare,3719.36,79
+PUGLIA,FER,Eolico off-shore,Progetti in valutazione,3634.0,5
+BASILICATA,FER,Eolico on-shore,Progetti con nulla osta,3591.49,79
+CALABRIA,FER,Eolico on-shore,STMG accettate,3373.294,60
+PUGLIA,FER,Eolico off-shore,Progetti con nulla osta,3312.0,7
+CAMPANIA,FER,Eolico on-shore,STMG accettate,3282.44,84
+BASILICATA,FER,Solare,Progetti con nulla osta,3281.60195,165
+SICILIA,FER,Eolico on-shore,Progetti in valutazione,3177.5,58
+PUGLIA,FER,Eolico off-shore,STMG da accettare,3120.0,4
+SARDEGNA,FER,Solare,Progetti in valutazione,2892.38224,70
+VENETO,FER,Solare,STMG accettate,2679.65078,60
+CAMPANIA,FER,Eolico on-shore,Progetti con nulla osta,2588.0,61
+SICILIA,FER,Solare,STMG da accettare,2579.8722,59
+LAZIO,FER,Eolico off-shore,STMG accettate,2450.0,5
+BASILICATA,FER,Eolico on-shore,Progetti in valutazione,2429.2,49
+EMILIA-ROMAGNA,FER,Solare,STMG accettate,2425.49375,61
+PUGLIA,FER,Solare,STMD/Contratti,2317.37572,48
+TOSCANA,FER,Eolico on-shore,STMG accettate,2296.2,36
+PUGLIA,FER,Solare,STMG da accettare,2159.17056,65
+TOSCANA,FER,Solare,STMG accettate,2143.82564,62
+SARDEGNA,FER,Eolico off-shore,Progetti in valutazione,2094.5,3
+SARDEGNA,FER,Eolico on-shore,Progetti in valutazione,2092.74,29
+LAZIO,FER,Solare,Progetti con nulla osta,1885.4358,55
+EMILIA-ROMAGNA,FER,Solare,STMG da accettare,1883.83948,40
+BASILICATA,FER,Solare,Progetti in valutazione,1844.28186,74
+LAZIO,FER,Eolico off-shore,Progetti in valutazione,1818.0,3
+MOLISE,FER,Eolico on-shore,STMG accettate,1788.7,36
+PIEMONTE,FER,Solare,STMG accettate,1762.08056,46
+MOLISE,FER,Solare,Progetti con nulla osta,1701.49036,42
+EMILIA-ROMAGNA,FER,Solare,Progetti con nulla osta,1689.49478,37
+EMILIA-ROMAGNA,FER,Solare,Progetti in valutazione,1651.019,36
+MOLISE,FER,Eolico on-shore,Progetti con nulla osta,1463.7,28
+SICILIA,FER,Eolico on-shore,STMG da accettare,1362.4,23
+BASILICATA,FER,Solare,STMG da accettare,1351.156,28
+ABRUZZO,FER,Eolico off-shore,STMG accettate,1350.0,1
+LAZIO,FER,Solare,STMG accettate,1342.6536,45
+LAZIO,FER,Solare,STMD/Contratti,1295.59196,32
+CALABRIA,FER,Eolico on-shore,Progetti con nulla osta,1264.7,28
+CAMPANIA,FER,Solare,Progetti con nulla osta,1240.5816,48
+EMILIA-ROMAGNA,FER,Eolico off-shore,Progetti con nulla osta,1230.0,3
+CALABRIA,FER,Eolico on-shore,Progetti in valutazione,1214.24,20
+CALABRIA,FER,Solare,STMG accettate,1202.43452,31
+LAZIO,FER,Eolico on-shore,Progetti con nulla osta,1191.1,21
+UMBRIA,FER,Eolico on-shore,STMG accettate,1178.4,18
+CALABRIA,FER,Eolico off-shore,STMG accettate,1160.0,3
+VENETO,FER,Solare,STMG da accettare,1126.19003,26
+MARCHE,FER,Eolico on-shore,STMG accettate,1115.8,19
+VENETO,FER,Solare,Progetti in valutazione,1113.715,22
+PIEMONTE,FER,Solare,Progetti in valutazione,1110.85603,30
+BASILICATA,FER,Eolico on-shore,STMG da accettare,1069.58,26
+SARDEGNA,FER,Solare,STMG da accettare,1063.57528,20
+LAZIO,FER,Solare,Progetti in valutazione,1063.5392,30
+MOLISE,FER,Eolico off-shore,STMG accettate,1000.0,1
+SICILIA,FER,Eolico off-shore,STMG da accettare,1000.0,1
+LAZIO,FER,Solare,STMG da accettare,979.77902,27
+LOMBARDIA,FER,Solare,Progetti in valutazione,970.5459,26
+LOMBARDIA,FER,Solare,Progetti con nulla osta,940.618,19
+TOSCANA,FER,Solare,STMG da accettare,926.5906,18
+SARDEGNA,FER,Eolico on-shore,STMG da accettare,916.35,12
+LOMBARDIA,FER,Solare,STMG accettate,903.9228,31
+TOSCANA,FER,Eolico off-shore,Progetti in valutazione,864.0,1
+TOSCANA,FER,Solare,Progetti con nulla osta,854.1999,22
+LIGURIA,FER,Eolico on-shore,STMG accettate,847.68,20
+EMILIA-ROMAGNA,FER,Eolico on-shore,STMG accettate,785.0,14
+LAZIO,FER,Eolico on-shore,STMG accettate,780.4,16
+PUGLIA,FER,Eolico on-shore,STMD/Contratti,768.275,23
+VENETO,FER,Solare,Progetti con nulla osta,739.652,17
+TOSCANA,FER,Solare,Progetti in valutazione,716.37591,18
+MARCHE,FER,Eolico on-shore,STMG da accettare,714.1,11
+ABRUZZO,FER,Eolico on-shore,STMG accettate,658.0,16
+CALABRIA,FER,Eolico on-shore,STMG da accettare,642.224,17
+CALABRIA,FER,Eolico off-shore,Progetti con nulla osta,640.0,1
+PIEMONTE,FER,Solare,STMG da accettare,628.015,13
+VENETO,FER,Eolico off-shore,STMG da accettare,600.0,1
+LOMBARDIA,FER,Solare,STMG da accettare,575.356,16
+CALABRIA,FER,Eolico off-shore,Progetti in valutazione,555.0,1
+MOLISE,FER,Eolico on-shore,Progetti in valutazione,550.8,12
+CAMPANIA,FER,Idroelettrico,Progetti con nulla osta,550.0,1
+UMBRIA,FER,Eolico on-shore,STMG da accettare,545.9,9
+CAMPANIA,FER,Eolico on-shore,Progetti in valutazione,528.1,19
+TOSCANA,FER,Eolico on-shore,Progetti in valutazione,521.3,11
+MOLISE,FER,Eolico on-shore,STMG da accettare,515.2,12
+SARDEGNA,FER,Eolico off-shore,Progetti con nulla osta,504.0,1
+UMBRIA,FER,Solare,STMG accettate,498.2238,8
+BASILICATA,FER,Solare,STMD/Contratti,494.65214,30
+LAZIO,FER,Eolico on-shore,STMG da accettare,491.0,7
+ABRUZZO,FER,Idroelettrico,STMG accettate,490.0,1
+CAMPANIA,FER,Solare,Progetti in valutazione,458.198,19
+CAMPANIA,FER,Solare,STMD/Contratti,427.15575,15
+MOLISE,FER,Solare,Progetti in valutazione,425.17,13
+SARDEGNA,FER,Solare,STMD/Contratti,424.606,6
+CAMPANIA,FER,Solare,STMG accettate,411.87883,23
+BASILICATA,FER,Eolico on-shore,STMD/Contratti,410.895,11
+EMILIA-ROMAGNA,FER,Eolico on-shore,Progetti in valutazione,407.7,6
+CAMPANIA,FER,Eolico on-shore,STMG da accettare,405.9,14
+UMBRIA,FER,Eolico on-shore,Progetti in valutazione,394.2,6
+MOLISE,FER,Solare,STMG accettate,389.37326,10
+SICILIA,FER,Eolico off-shore,Progetti con nulla osta,386.8,2
+CAMPANIA,FER,Eolico on-shore,STMD/Contratti,377.778,17
+CALABRIA,FER,Solare,STMG da accettare,376.744,10
+TOSCANA,FER,Eolico on-shore,Progetti con nulla osta,335.4,7
+SICILIA,FER,Idroelettrico,STMG accettate,330.0,2
+PIEMONTE,FER,Solare,Progetti con nulla osta,321.8,11
+CALABRIA,FER,Solare,Progetti in valutazione,317.16,8
+CAMPANIA,FER,Solare,STMG da accettare,306.129,7
+ABRUZZO,FER,Eolico on-shore,STMG da accettare,290.0,4
+LIGURIA,FER,Eolico on-shore,Progetti in valutazione,281.2,3
+TOSCANA,FER,Eolico on-shore,STMG da accettare,275.4,7
+FRIULI-VENEZIA GIULIA,FER,Solare,STMG accettate,268.455,7
+LAZIO,FER,Eolico on-shore,Progetti in valutazione,265.8,4
+CALABRIA,FER,Solare,Progetti con nulla osta,261.323,8
+FRIULI-VENEZIA GIULIA,FER,Solare,Progetti con nulla osta,261.038,7
+FRIULI-VENEZIA GIULIA,FER,Solare,STMD/Contratti,251.105,4
+SICILIA,FER,Eolico on-shore,STMD/Contratti,228.65,8
+UMBRIA,FER,Solare,STMG da accettare,226.32,6
+EMILIA-ROMAGNA,FER,Solare,STMD/Contratti,220.976,9
+FRIULI-VENEZIA GIULIA,FER,Solare,Progetti in valutazione,214.0,4
+TRENTINO-ALTO ADIGE,FER,Idroelettrico,STMD/Contratti,202.0,2
+ABRUZZO,FER,Solare,STMG accettate,199.80888,9
+LOMBARDIA,FER,Eolico on-shore,Progetti in valutazione,198.0,2
+MARCHE,FER,Eolico on-shore,Progetti in valutazione,177.0,3
+CALABRIA,FER,Idroelettrico,STMG accettate,165.6,2
+PIEMONTE,FER,Eolico on-shore,STMG accettate,161.72,4
+MOLISE,FER,Idroelettrico,STMG accettate,160.0,1
+PIEMONTE,FER,Eolico on-shore,Progetti con nulla osta,127.88,1
+PIEMONTE,FER,Solare,STMD/Contratti,107.0,3
+UMBRIA,FER,Eolico on-shore,Progetti con nulla osta,102.6,2
+VALLE D'AOSTA,FER,Idroelettrico,Progetti in valutazione,102.0,1
+EMILIA-ROMAGNA,FER,Eolico on-shore,STMG da accettare,100.0,3
+ABRUZZO,FER,Eolico on-shore,Progetti in valutazione,98.1,2
+TOSCANA,FER,Solare,STMD/Contratti,93.369,2
+UMBRIA,FER,Solare,Progetti in valutazione,90.4,3
+VENETO,FER,Solare,STMD/Contratti,90.0,1
+CALABRIA,FER,Solare,STMD/Contratti,89.98514,4
+ABRUZZO,FER,Solare,Progetti con nulla osta,88.3,2
+PIEMONTE,FER,Eolico on-shore,STMG da accettare,82.0,2
+MOLISE,FER,Solare,STMG da accettare,80.8,3
+FRIULI-VENEZIA GIULIA,FER,Solare,STMG da accettare,79.172,4
+MARCHE,FER,Eolico on-shore,Progetti con nulla osta,78.4,3
+MARCHE,FER,Solare,Progetti con nulla osta,78.0,1
+ABRUZZO,FER,Solare,Progetti in valutazione,75.1,3
+LIGURIA,FER,Eolico on-shore,STMG da accettare,75.0,2
+SARDEGNA,FER,Eolico on-shore,STMD/Contratti,66.0,1
+FRIULI-VENEZIA GIULIA,FER,Eolico on-shore,STMG accettate,62.0,1
+UMBRIA,FER,Solare,Progetti con nulla osta,59.88,2
+LOMBARDIA,FER,Biomasse,STMG accettate,57.8,2
+VENETO,FER,Eolico on-shore,STMG accettate,50.0,1
+MARCHE,FER,Solare,Progetti in valutazione,49.92,2
+MARCHE,FER,Solare,STMG accettate,49.71,4
+ABRUZZO,FER,Eolico on-shore,Progetti con nulla osta,49.7,2
+VENETO,FER,Biomasse,STMG accettate,46.5,1
+LOMBARDIA,FER,Idroelettrico,STMD/Contratti,46.05,1
+ABRUZZO,FER,Solare,STMG da accettare,44.5,3
+LOMBARDIA,FER,Eolico on-shore,STMG da accettare,41.0,1
+VENETO,FER,Eolico on-shore,STMG da accettare,41.0,1
+MOLISE,FER,Solare,STMD/Contratti,40.487,2
+VALLE D'AOSTA,FER,Idroelettrico,STMG accettate,40.0,1
+LOMBARDIA,FER,Biomasse,STMD/Contratti,38.0,1
+MOLISE,FER,Eolico on-shore,STMD/Contratti,36.0,1
+LOMBARDIA,FER,Idroelettrico,Progetti con nulla osta,32.8,1
+ABRUZZO,FER,Eolico on-shore,STMD/Contratti,31.5,1
+LAZIO,FER,Eolico on-shore,STMD/Contratti,29.4,1
+MARCHE,FER,Solare,STMG da accettare,27.3,2
+PUGLIA,FER,Biomasse,Progetti in valutazione,25.5,1
+PIEMONTE,FER,Idroelettrico,STMD/Contratti,24.835,3
+EMILIA-ROMAGNA,FER,Geotermico,Progetti con nulla osta,24.445,1
+LAZIO,FER,Biomasse,STMG da accettare,23.25,1
+VENETO,FER,Idroelettrico,Progetti con nulla osta,22.95,1
+CALABRIA,FER,Eolico on-shore,STMD/Contratti,21.5,1
+CALABRIA,FER,Idroelettrico,STMG da accettare,20.0,1
+TOSCANA,FER,Geotermico,STMG accettate,20.0,1
+LAZIO,FER,Idroelettrico,STMD/Contratti,19.76,1
+TOSCANA,FER,Geotermico,Progetti con nulla osta,17.5,2
+PIEMONTE,FER,Biomasse,Progetti in valutazione,16.0,1
+SICILIA,FER,Biomasse,STMG accettate,15.5,1
+TRENTINO-ALTO ADIGE,FER,Idroelettrico,STMG accettate,15.0,1
+VENETO,FER,Biomasse,Progetti con nulla osta,12.5,1
+PIEMONTE,FER,Idroelettrico,STMG accettate,10.385,2
+PUGLIA,FER,Biomasse,STMG accettate,10.0,1
+PUGLIA,FER,Biomasse,Progetti con nulla osta,10.0,1
+LAZIO,FER,Biomasse,Progetti con nulla osta,10.0,1
+SARDEGNA,FER,Idroelettrico,STMG accettate,6.356,1
+TOSCANA,FER,Geotermico,STMG da accettare,4.701,1
+LIGURIA,FER,Solare,STMG accettate,0.0828,1

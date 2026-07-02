@@ -1,0 +1,429 @@
+year,region,province,sector,consumption_gwh
+2024,Lombardia,Brescia,Industria,8322.370384
+2024,Lombardia,Milano,Servizi,7652.368591
+2024,Lazio,Roma,Servizi,7645.082841
+2024,Lombardia,Bergamo,Industria,4885.612124
+2024,Lazio,Roma,Domestico,4691.990012
+2024,Lombardia,Milano,Industria,4475.164499
+2024,Friuli-Venezia Giulia,Udine,Industria,3850.530746
+2024,Lombardia,Milano,Domestico,3775.949934
+2024,Veneto,Vicenza,Industria,3735.792641
+2024,Piemonte,Torino,Industria,3732.739481
+2024,Lombardia,Cremona,Industria,3557.209465
+2024,Piemonte,Torino,Servizi,3379.025136
+2024,Veneto,Verona,Industria,3066.281326
+2024,Campania,Napoli,Servizi,3023.715216
+2024,Puglia,Taranto,Industria,2909.243558
+2024,Campania,Napoli,Domestico,2865.144017
+2024,Veneto,Padova,Industria,2647.214
+2024,Veneto,Treviso,Industria,2595.51976
+2024,Piemonte,Cuneo,Industria,2561.007207
+2024,Emilia-Romagna,Modena,Industria,2419.400429
+2024,Lombardia,Varese,Industria,2312.009711
+2024,Sardegna,Cagliari,Industria,2173.837146
+2024,Lombardia,Mantova,Industria,2172.653646
+2024,Lombardia,Monza e della Brianza,Industria,2161.561616
+2024,Piemonte,Torino,Domestico,2098.154801
+2024,Emilia-Romagna,Bologna,Servizi,2094.686201
+2024,Toscana,Lucca,Industria,2082.843542
+2024,Lombardia,Brescia,Servizi,2045.657407
+2024,Sicilia,Siracusa,Industria,2026.093675
+2024,Veneto,Verona,Servizi,1985.470885
+2024,Emilia-Romagna,Bologna,Industria,1959.899621
+2024,Lombardia,Bergamo,Servizi,1830.702111
+2024,Emilia-Romagna,Reggio Nell'Emilia,Industria,1799.325538
+2024,Emilia-Romagna,Ravenna,Industria,1787.404644
+2024,Lazio,Roma,Industria,1761.456115
+2024,Toscana,Firenze,Servizi,1725.667306
+2024,Lombardia,Pavia,Industria,1712.315235
+2024,Emilia-Romagna,Parma,Industria,1666.348026
+2024,Veneto,Venezia,Servizi,1664.262123
+2024,Umbria,Terni,Industria,1647.720186
+2024,Veneto,Venezia,Industria,1639.849128
+2024,Veneto,Padova,Servizi,1610.550436
+2024,Piemonte,Alessandria,Industria,1556.491788
+2024,Trentino-Alto Adige,Bolzano/Bozen,Servizi,1549.437914
+2024,Trentino-Alto Adige,Trento,Industria,1544.307175
+2024,Puglia,Bari,Servizi,1514.289449
+2024,Lombardia,Brescia,Domestico,1507.461221
+2024,Campania,Napoli,Industria,1491.229264
+2024,Piemonte,Novara,Industria,1421.355804
+2024,Sicilia,Palermo,Domestico,1410.653224
+2024,Emilia-Romagna,Modena,Servizi,1378.471072
+2024,Puglia,Bari,Domestico,1315.628552
+2024,Lombardia,Varese,Servizi,1295.628663
+2024,Toscana,Firenze,Industria,1278.773397
+2024,Veneto,Treviso,Servizi,1262.566785
+2024,Puglia,Bari,Industria,1244.91247
+2024,Campania,Salerno,Servizi,1238.964564
+2024,Lombardia,Lecco,Industria,1235.998215
+2024,Trentino-Alto Adige,Trento,Servizi,1235.943234
+2024,Sicilia,Catania,Servizi,1234.04025
+2024,Sicilia,Catania,Domestico,1216.26004
+2024,Lazio,Frosinone,Industria,1211.798518
+2024,Sicilia,Palermo,Servizi,1191.269158
+2024,Friuli-Venezia Giulia,Pordenone,Industria,1180.271072
+2024,Campania,Salerno,Industria,1175.333123
+2024,Liguria,Genova,Servizi,1173.482428
+2024,Lombardia,Bergamo,Domestico,1169.953992
+2024,Veneto,Padova,Domestico,1164.334208
+2024,Sicilia,Catania,Industria,1161.554733
+2024,Emilia-Romagna,Ferrara,Industria,1158.101443
+2024,Veneto,Vicenza,Servizi,1149.044375
+2024,Campania,Caserta,Industria,1135.897267
+2024,Umbria,Perugia,Industria,1125.190233
+2024,Lombardia,Pavia,Servizi,1104.513137
+2024,Toscana,Livorno,Industria,1101.94477
+2024,Lombardia,Monza e della Brianza,Servizi,1100.454631
+2024,Veneto,Verona,Domestico,1094.813449
+2024,Emilia-Romagna,Bologna,Domestico,1083.956766
+2024,Lombardia,Como,Industria,1081.318497
+2024,Veneto,Venezia,Domestico,1060.360136
+2024,Toscana,Firenze,Domestico,1053.168761
+2024,Campania,Salerno,Domestico,1044.502279
+2024,Campania,Caserta,Servizi,1044.486433
+2024,Veneto,Treviso,Domestico,1037.624131
+2024,Puglia,Brindisi,Industria,1029.768463
+2024,Marche,Ancona,Industria,1002.337341
+2024,Basilicata,Potenza,Industria,996.067552
+2024,Lombardia,Varese,Domestico,982.896519
+2024,Puglia,Lecce,Domestico,975.513256
+2024,Abruzzo,Chieti,Industria,974.114198
+2024,Lazio,Latina,Industria,971.998767
+2024,Veneto,Vicenza,Domestico,970.027601
+2024,Friuli-Venezia Giulia,Udine,Servizi,966.314311
+2024,Campania,Caserta,Domestico,965.29885
+2024,Emilia-Romagna,Parma,Servizi,959.000186
+2024,Sicilia,Messina,Industria,940.690681
+2024,Lombardia,Monza e della Brianza,Domestico,936.316546
+2024,Trentino-Alto Adige,Bolzano/Bozen,Industria,918.870037
+2024,Umbria,Perugia,Servizi,893.87868
+2024,Toscana,Pisa,Industria,889.689599
+2024,Puglia,Lecce,Servizi,842.89077
+2024,Lombardia,Como,Servizi,819.11555
+2024,Emilia-Romagna,Modena,Domestico,808.155216
+2024,Liguria,Genova,Domestico,807.974516
+2024,Liguria,Genova,Industria,802.353556
+2024,Piemonte,Cuneo,Servizi,792.112438
+2024,Marche,Pesaro E Urbino,Industria,778.042102
+2024,Emilia-Romagna,Ravenna,Servizi,765.222175
+2024,Emilia-Romagna,Forlì-Cesena,Industria,752.012652
+2024,Emilia-Romagna,Rimini,Servizi,751.661501
+2024,Veneto,Rovigo,Industria,749.325499
+2024,Sardegna,Sassari,Servizi,744.631175
+2024,Emilia-Romagna,Reggio Nell'Emilia,Servizi,741.809459
+2024,Sardegna,Sassari,Domestico,738.453176
+2024,Emilia-Romagna,Piacenza,Industria,729.958518
+2024,Calabria,Cosenza,Domestico,728.195103
+2024,Sicilia,Messina,Servizi,724.862146
+2024,Sicilia,Messina,Domestico,722.467822
+2024,Toscana,Pisa,Servizi,716.974349
+2024,Abruzzo,L'Aquila,Industria,706.603723
+2024,Umbria,Perugia,Domestico,699.464668
+2024,Emilia-Romagna,Forlì-Cesena,Servizi,699.156177
+2024,Calabria,Cosenza,Servizi,698.858187
+2024,Lazio,Latina,Servizi,693.603208
+2024,Piemonte,Alessandria,Servizi,691.668106
+2024,Campania,Avellino,Industria,683.014582
+2024,Puglia,Taranto,Servizi,677.518736
+2024,Abruzzo,Teramo,Industria,675.348657
+2024,Puglia,Foggia,Servizi,668.255166
+2024,Lombardia,Como,Domestico,667.505499
+2024,Marche,Ancona,Servizi,658.768636
+2024,Lazio,Latina,Domestico,654.389737
+2024,Puglia,Taranto,Domestico,636.561888
+2024,Sardegna,Cagliari,Servizi,628.794502
+2024,Emilia-Romagna,Ferrara,Servizi,625.52161
+2024,Friuli-Venezia Giulia,Udine,Domestico,621.728884
+2024,Piemonte,Cuneo,Domestico,608.231489
+2024,Piemonte,Biella,Industria,607.294148
+2024,Trentino-Alto Adige,Trento,Domestico,602.803017
+2024,Emilia-Romagna,Reggio Nell'Emilia,Domestico,598.213932
+2024,Lombardia,Pavia,Domestico,597.476868
+2024,Toscana,Arezzo,Industria,595.711696
+2024,Piemonte,Novara,Servizi,593.669092
+2024,Calabria,Reggio Di Calabria,Domestico,583.789693
+2024,Sardegna,Cagliari,Domestico,580.45822
+2024,Lazio,Frosinone,Servizi,578.537821
+2024,Puglia,Foggia,Domestico,556.877952
+2024,Lombardia,Mantova,Servizi,555.075051
+2024,Puglia,Foggia,Industria,554.66235
+2024,Abruzzo,Chieti,Servizi,550.3086
+2024,Sicilia,Trapani,Domestico,539.297606
+2024,Toscana,Livorno,Servizi,534.685301
+2024,Friuli-Venezia Giulia,Trieste,Servizi,524.399106
+2024,Calabria,Reggio Di Calabria,Servizi,521.449215
+2024,Emilia-Romagna,Piacenza,Servizi,514.753616
+2024,Trentino-Alto Adige,Bolzano/Bozen,Domestico,510.698022
+2024,Toscana,Pisa,Domestico,509.129016
+2024,Toscana,Lucca,Servizi,508.973782
+2024,Emilia-Romagna,Parma,Domestico,505.288944
+2024,Marche,Macerata,Industria,502.667517
+2024,Lazio,Frosinone,Domestico,501.838861
+2024,Lombardia,Lodi,Industria,500.409282
+2024,Sicilia,Siracusa,Domestico,498.124578
+2024,Liguria,Savona,Industria,494.268514
+2024,Lombardia,Mantova,Domestico,486.944057
+2024,Toscana,Lucca,Domestico,482.214872
+2024,Liguria,Savona,Servizi,482.081843
+2024,Lombardia,Cremona,Servizi,480.959639
+2024,Molise,Campobasso,Industria,474.031777
+2024,Basilicata,Potenza,Servizi,473.669576
+2024,Puglia,Brindisi,Domestico,469.029731
+2024,Sicilia,Agrigento,Domestico,466.488726
+2024,Piemonte,Vercelli,Industria,464.427356
+2024,Lombardia,Lecco,Servizi,463.935016
+2024,Veneto,Belluno,Industria,461.857262
+2024,Friuli-Venezia Giulia,Pordenone,Servizi,461.686932
+2024,Toscana,Arezzo,Servizi,460.508678
+2024,Emilia-Romagna,Ravenna,Domestico,457.626293
+2024,Toscana,Prato,Industria,457.253746
+2024,Marche,Ancona,Domestico,454.970177
+2024,Sicilia,Palermo,Industria,447.752158
+2024,Sicilia,Siracusa,Servizi,445.416401
+2024,Marche,Macerata,Servizi,442.488547
+2024,Sardegna,Sud Sardegna,Industria,439.547638
+2024,Piemonte,Alessandria,Domestico,438.418992
+2024,Abruzzo,L'Aquila,Servizi,438.06643
+2024,Piemonte,Asti,Industria,436.900998
+2024,Sardegna,Sud Sardegna,Domestico,435.618829
+2024,Marche,Pesaro E Urbino,Servizi,431.370943
+2024,Sicilia,Ragusa,Industria,431.09163
+2024,Lazio,Viterbo,Servizi,430.390878
+2024,Emilia-Romagna,Forlì-Cesena,Domestico,428.319463
+2024,Toscana,Siena,Servizi,427.830273
+2024,Emilia-Romagna,Rimini,Domestico,425.854978
+2024,Emilia-Romagna,Ferrara,Domestico,424.532867
+2024,Lombardia,Sondrio,Industria,420.877748
+2024,Sicilia,Trapani,Servizi,420.740335
+2024,Valle D'Aosta,Aosta,Industria,418.659597
+2024,Calabria,Catanzaro,Servizi,412.762495
+2024,Puglia,Brindisi,Servizi,408.013864
+2024,Veneto,Rovigo,Servizi,407.895634
+2024,Lombardia,Cremona,Domestico,407.24936
+2024,Abruzzo,Pescara,Industria,406.06237
+2024,Sicilia,Ragusa,Domestico,402.200216
+2024,Piemonte,Novara,Domestico,400.918933
+2024,Sardegna,Sassari,Industria,398.580332
+2024,Toscana,Pistoia,Industria,396.881565
+2024,Sicilia,Agrigento,Servizi,394.816863
+2024,Abruzzo,Teramo,Servizi,390.606694
+2024,Puglia,Lecce,Industria,390.43273
+2024,Puglia,Barletta-Andria-Trani,Domestico,388.302608
+2024,Liguria,La Spezia,Servizi,387.772428
+2024,Piemonte,Verbano-Cusio-Ossola,Industria,385.485633
+2024,Campania,Avellino,Servizi,380.784788
+2024,Abruzzo,Pescara,Servizi,380.143958
+2024,Abruzzo,Chieti,Domestico,378.699602
+2024,Valle D'Aosta,Aosta,Servizi,373.079475
+2024,Toscana,Livorno,Domestico,370.263534
+2024,Calabria,Catanzaro,Domestico,368.900245
+2024,Friuli-Venezia Giulia,Pordenone,Domestico,365.958282
+2024,Marche,Pesaro E Urbino,Domestico,365.340195
+2024,Toscana,Pistoia,Servizi,362.800859
+2024,Toscana,Prato,Servizi,362.338557
+2024,Marche,Ascoli Piceno,Industria,361.784683
+2024,Toscana,Siena,Industria,357.480397
+2024,Campania,Avellino,Domestico,356.532852
+2024,Lombardia,Lecco,Domestico,356.312447
+2024,Toscana,Massa-Carrara,Industria,355.741072
+2024,Sardegna,Sud Sardegna,Servizi,355.692709
+2024,Lombardia,Sondrio,Servizi,355.445739
+2024,Toscana,Arezzo,Domestico,354.887574
+2024,Toscana,Grosseto,Servizi,354.581671
+2024,Sicilia,Ragusa,Servizi,346.307191
+2024,Emilia-Romagna,Rimini,Industria,345.642699
+2024,Lombardia,Lodi,Servizi,345.203334
+2024,Lazio,Viterbo,Domestico,340.287077
+2024,Umbria,Terni,Servizi,340.123609
+2024,Puglia,Barletta-Andria-Trani,Servizi,339.909178
+2024,Liguria,Imperia,Servizi,334.846299
+2024,Emilia-Romagna,Piacenza,Domestico,328.325248
+2024,Abruzzo,Pescara,Domestico,321.370384
+2024,Veneto,Belluno,Servizi,318.270244
+2024,Toscana,Pistoia,Domestico,317.346283
+2024,Liguria,Savona,Domestico,315.984059
+2024,Abruzzo,Teramo,Domestico,315.771551
+2024,Marche,Macerata,Domestico,310.763102
+2024,Basilicata,Matera,Industria,308.031436
+2024,Veneto,Rovigo,Domestico,303.900515
+2024,Marche,Ascoli Piceno,Servizi,301.776768
+2024,Puglia,Barletta-Andria-Trani,Industria,298.327231
+2024,Basilicata,Potenza,Domestico,297.509037
+2024,Friuli-Venezia Giulia,Gorizia,Industria,290.072119
+2024,Toscana,Siena,Domestico,288.102614
+2024,Piemonte,Vercelli,Servizi,287.969185
+2024,Friuli-Venezia Giulia,Trieste,Industria,286.627787
+2024,Abruzzo,L'Aquila,Domestico,283.714169
+2024,Toscana,Grosseto,Domestico,270.601715
+2024,Toscana,Massa-Carrara,Servizi,266.382227
+2024,Toscana,Prato,Domestico,264.883642
+2024,Calabria,Cosenza,Industria,264.479291
+2024,Basilicata,Matera,Servizi,261.453631
+2024,Lombardia,Brescia,Agricoltura,261.152502
+2024,Sicilia,Caltanissetta,Domestico,259.002227
+2024,Calabria,Reggio Di Calabria,Industria,256.357317
+2024,Lombardia,Mantova,Agricoltura,253.155623
+2024,Liguria,Imperia,Domestico,252.239613
+2024,Sardegna,Nuoro,Domestico,250.623068
+2024,Campania,Benevento,Domestico,247.67389
+2024,Veneto,Verona,Agricoltura,245.560518
+2024,Lombardia,Lodi,Domestico,243.461879
+2024,Piemonte,Asti,Servizi,242.551414
+2024,Friuli-Venezia Giulia,Gorizia,Servizi,234.705633
+2024,Campania,Benevento,Servizi,234.083407
+2024,Piemonte,Asti,Domestico,234.028085
+2024,Molise,Isernia,Industria,231.509738
+2024,Friuli-Venezia Giulia,Trieste,Domestico,230.144039
+2024,Liguria,La Spezia,Domestico,228.692719
+2024,Piemonte,Verbano-Cusio-Ossola,Servizi,228.678055
+2024,Sardegna,Nuoro,Servizi,228.588231
+2024,Campania,Benevento,Industria,228.393526
+2024,Sicilia,Caltanissetta,Industria,227.150651
+2024,Lazio,Viterbo,Industria,219.462671
+2024,Umbria,Terni,Domestico,219.130317
+2024,Veneto,Belluno,Domestico,214.252668
+2024,Sicilia,Caltanissetta,Servizi,213.60949
+2024,Marche,Ascoli Piceno,Domestico,210.462658
+2024,Veneto,Treviso,Agricoltura,209.245159
+2024,Molise,Campobasso,Servizi,209.09058
+2024,Piemonte,Biella,Servizi,206.447322
+2024,Sicilia,Trapani,Industria,204.314132
+2024,Sardegna,Oristano,Domestico,201.192008
+2024,Molise,Campobasso,Domestico,199.133756
+2024,Toscana,Massa-Carrara,Domestico,198.264312
+2024,Lombardia,Sondrio,Domestico,193.034919
+2024,Lazio,Rieti,Servizi,191.351258
+2024,Calabria,Crotone,Domestico,189.825144
+2024,Lombardia,Cremona,Agricoltura,189.729042
+2024,Basilicata,Matera,Domestico,188.888739
+2024,Piemonte,Cuneo,Agricoltura,186.868689
+2024,Marche,Fermo,Industria,183.867968
+2024,Piemonte,Biella,Domestico,183.1707
+2024,Trentino-Alto Adige,Bolzano/Bozen,Agricoltura,182.620112
+2024,Calabria,Catanzaro,Industria,180.232427
+2024,Marche,Fermo,Servizi,176.36795
+2024,Piemonte,Vercelli,Domestico,176.306187
+2024,Toscana,Grosseto,Industria,174.466612
+2024,Sardegna,Oristano,Servizi,171.819112
+2024,Marche,Fermo,Domestico,171.336811
+2024,Liguria,La Spezia,Industria,167.143552
+2024,Calabria,Vibo Valentia,Servizi,166.423872
+2024,Piemonte,Verbano-Cusio-Ossola,Domestico,163.78359
+2024,Lazio,Rieti,Domestico,161.621292
+2024,Puglia,Bari,Agricoltura,160.538271
+2024,Calabria,Crotone,Servizi,156.902202
+2024,Calabria,Vibo Valentia,Domestico,153.955891
+2024,Sicilia,Enna,Domestico,152.129953
+2024,Friuli-Venezia Giulia,Gorizia,Domestico,147.925322
+2024,Valle D'Aosta,Aosta,Domestico,146.830149
+2024,Sicilia,Agrigento,Industria,140.456448
+2024,Emilia-Romagna,Forlì-Cesena,Agricoltura,139.628997
+2024,Sardegna,Nuoro,Industria,137.356297
+2024,Umbria,Perugia,Agricoltura,135.948188
+2024,Sicilia,Enna,Servizi,133.350268
+2024,Campania,Salerno,Agricoltura,126.142907
+2024,Puglia,Foggia,Agricoltura,124.252036
+2024,Liguria,Imperia,Industria,124.162986
+2024,Trentino-Alto Adige,Trento,Agricoltura,121.33829
+2024,Emilia-Romagna,Reggio Nell'Emilia,Agricoltura,119.803769
+2024,Lazio,Rieti,Industria,118.907835
+2024,Veneto,Vicenza,Agricoltura,117.590898
+2024,Emilia-Romagna,Ferrara,Agricoltura,116.75007
+2024,Emilia-Romagna,Ravenna,Agricoltura,115.389815
+2024,Sardegna,Oristano,Industria,115.373463
+2024,Sicilia,Ragusa,Agricoltura,110.270234
+2024,Piemonte,Torino,Agricoltura,106.444144
+2024,Veneto,Padova,Agricoltura,104.096182
+2024,Lazio,Roma,Agricoltura,101.145821
+2024,Abruzzo,Teramo,Agricoltura,99.150206
+2024,Puglia,Barletta-Andria-Trani,Agricoltura,98.506917
+2024,Emilia-Romagna,Modena,Agricoltura,96.309439
+2024,Lombardia,Bergamo,Agricoltura,95.009555
+2024,Lazio,Latina,Agricoltura,94.093069
+2024,Molise,Isernia,Servizi,92.46269
+2024,Emilia-Romagna,Parma,Agricoltura,92.011038
+2024,Sicilia,Catania,Agricoltura,89.958748
+2024,Sicilia,Siracusa,Agricoltura,88.329754
+2024,Campania,Napoli,Agricoltura,88.252262
+2024,Toscana,Siena,Agricoltura,84.909145
+2024,Emilia-Romagna,Piacenza,Agricoltura,84.256276
+2024,Veneto,Venezia,Agricoltura,83.802933
+2024,Puglia,Taranto,Agricoltura,82.048022
+2024,Emilia-Romagna,Bologna,Agricoltura,76.772371
+2024,Sardegna,Oristano,Agricoltura,76.678425
+2024,Friuli-Venezia Giulia,Udine,Agricoltura,71.870362
+2024,Molise,Isernia,Domestico,70.902766
+2024,Campania,Caserta,Agricoltura,70.799539
+2024,Toscana,Grosseto,Agricoltura,69.619045
+2024,Calabria,Crotone,Industria,69.414533
+2024,Veneto,Rovigo,Agricoltura,68.627957
+2024,Lombardia,Milano,Agricoltura,67.79926
+2024,Sicilia,Enna,Industria,67.460771
+2024,Puglia,Brindisi,Agricoltura,63.878644
+2024,Lombardia,Pavia,Agricoltura,63.805268
+2024,Toscana,Firenze,Agricoltura,62.392359
+2024,Lazio,Viterbo,Agricoltura,60.39535
+2024,Calabria,Vibo Valentia,Industria,58.403696
+2024,Lombardia,Lodi,Agricoltura,56.19929
+2024,Calabria,Cosenza,Agricoltura,54.929123
+2024,Sardegna,Sassari,Agricoltura,54.034206
+2024,Abruzzo,Chieti,Agricoltura,52.527673
+2024,Puglia,Lecce,Agricoltura,51.681454
+2024,Friuli-Venezia Giulia,Pordenone,Agricoltura,51.378247
+2024,Marche,Ancona,Agricoltura,50.676179
+2024,Sardegna,Sud Sardegna,Agricoltura,49.018504
+2024,Piemonte,Novara,Agricoltura,44.431655
+2024,Sicilia,Trapani,Agricoltura,41.966128
+2024,Toscana,Arezzo,Agricoltura,40.854715
+2024,Marche,Macerata,Agricoltura,38.952211
+2024,Piemonte,Alessandria,Agricoltura,38.946347
+2024,Sicilia,Agrigento,Agricoltura,36.929436
+2024,Molise,Campobasso,Agricoltura,36.271832
+2024,Sardegna,Nuoro,Agricoltura,35.743735
+2024,Piemonte,Asti,Agricoltura,34.838649
+2024,Sicilia,Palermo,Agricoltura,33.785382
+2024,Emilia-Romagna,Rimini,Agricoltura,31.593167
+2024,Toscana,Pisa,Agricoltura,30.975743
+2024,Calabria,Reggio Di Calabria,Agricoltura,30.689485
+2024,Basilicata,Matera,Agricoltura,28.607385
+2024,Piemonte,Vercelli,Agricoltura,27.91867
+2024,Basilicata,Potenza,Agricoltura,27.149162
+2024,Toscana,Livorno,Agricoltura,26.941693
+2024,Toscana,Pistoia,Agricoltura,25.3006
+2024,Campania,Benevento,Agricoltura,24.377148
+2024,Abruzzo,L'Aquila,Agricoltura,23.984417
+2024,Lombardia,Sondrio,Agricoltura,22.552649
+2024,Lombardia,Como,Agricoltura,21.733571
+2024,Veneto,Belluno,Agricoltura,20.167529
+2024,Sicilia,Caltanissetta,Agricoltura,20.148275
+2024,Marche,Ascoli Piceno,Agricoltura,19.736932
+2024,Abruzzo,Pescara,Agricoltura,19.52495
+2024,Friuli-Venezia Giulia,Gorizia,Agricoltura,19.212191
+2024,Marche,Fermo,Agricoltura,18.879789
+2024,Umbria,Terni,Agricoltura,18.618283
+2024,Calabria,Catanzaro,Agricoltura,18.511413
+2024,Lombardia,Varese,Agricoltura,18.154922
+2024,Sicilia,Messina,Agricoltura,17.661427
+2024,Marche,Pesaro E Urbino,Agricoltura,15.629336
+2024,Lazio,Frosinone,Agricoltura,15.225988
+2024,Sardegna,Cagliari,Agricoltura,15.080711
+2024,Campania,Avellino,Agricoltura,14.520234
+2024,Sicilia,Enna,Agricoltura,14.399719
+2024,Toscana,Lucca,Agricoltura,13.745334
+2024,Liguria,Savona,Agricoltura,13.331213
+2024,Lombardia,Monza e della Brianza,Agricoltura,12.715885
+2024,Calabria,Vibo Valentia,Agricoltura,11.704925
+2024,Liguria,Imperia,Agricoltura,11.554752
+2024,Calabria,Crotone,Agricoltura,11.04999
+2024,Liguria,Genova,Agricoltura,10.404913
+2024,Lazio,Rieti,Agricoltura,9.935778
+2024,Lombardia,Lecco,Agricoltura,6.79057
+2024,Piemonte,Biella,Agricoltura,6.685459
+2024,Piemonte,Verbano-Cusio-Ossola,Agricoltura,5.502758
+2024,Valle D'Aosta,Aosta,Agricoltura,5.155997
+2024,Molise,Isernia,Agricoltura,5.113404
+2024,Liguria,La Spezia,Agricoltura,4.896232
+2024,Toscana,Massa-Carrara,Agricoltura,4.197568
+2024,Toscana,Prato,Agricoltura,3.256639
+2024,Friuli-Venezia Giulia,Trieste,Agricoltura,1.762699

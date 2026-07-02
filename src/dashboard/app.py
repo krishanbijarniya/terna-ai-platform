@@ -10,8 +10,8 @@ st.set_page_config(
     layout="wide"
 )
 
-# API Endpoint base
-API_BASE_URL = "http://127.0.0.1:8000"
+# Import hybrid utils
+from src.dashboard.utils import get_dashboard_kpis
 
 # Inject custom premium CSS styling
 st.markdown("""
@@ -52,17 +52,9 @@ st.title("🔌 AI-Driven Transmission Grid Outage Analytics Platform")
 st.markdown("### Italian Electricity Network Operational Decision Support System")
 st.markdown("---")
 
-# Fetch dashboard KPIs from API
-try:
-    response = requests.get(f"{API_BASE_URL}/dashboard", timeout=5)
-    if response.status_code == 200:
-        kpis = response.json()
-    else:
-        st.error("Failed to retrieve metrics from backend API. Please make sure the FastAPI server is running.")
-        kpis = None
-except Exception as e:
-    st.error(f"Could not connect to FastAPI server at {API_BASE_URL}. Ensure it is started. Error: {e}")
-    kpis = None
+# Fetch dashboard KPIs using hybrid engine
+kpis, source = get_dashboard_kpis()
+st.sidebar.info(f"Data Connection: **{source}**")
 
 if kpis:
     # 1. Render KPI Metric Cards

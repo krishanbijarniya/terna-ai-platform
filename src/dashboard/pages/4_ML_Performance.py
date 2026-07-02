@@ -7,18 +7,10 @@ st.title("📊 Machine Learning Models Performance & Metadata")
 st.markdown("Metrics, parameters, and algorithms deployed for outage duration predictions, risk classification, clustering, and anomaly detection.")
 st.markdown("---")
 
-API_URL = "http://127.0.0.1:8000/model"
+from src.dashboard.utils import get_model_metadata
 
-try:
-    response = requests.get(API_URL, timeout=5)
-    if response.status_code == 200:
-        meta = response.json()
-    else:
-        st.error("Failed to fetch model metadata from API.")
-        meta = None
-except Exception as e:
-    st.error(f"Could not connect to FastAPI server metadata endpoint: {e}")
-    meta = None
+meta, source = get_model_metadata()
+st.sidebar.info(f"Metadata Source: **{source}**")
 
 if meta:
     # Set tabs for each model

@@ -9,7 +9,7 @@ st.title("🤖 Grid Outage Duration & Risk Predictor")
 st.markdown("Submit grid asset details to predict planned outage duration, risk category, behavioral cluster, and detect anomaly patterns.")
 st.markdown("---")
 
-API_URL = "http://127.0.0.1:8000/predict"
+from src.dashboard.utils import predict_outage
 
 def get_easter_date(year):
     easter_dates = {
@@ -113,10 +113,9 @@ if st.button("🔮 Run Predictive Ingest", use_container_width=True):
     
     with st.spinner("Processing features and executing model models..."):
         try:
-            response = requests.post(API_URL, json=payload, timeout=5)
-            if response.status_code == 200:
-                res = response.json()
-                
+            res, source = predict_outage(payload)
+            st.sidebar.info(f"Prediction Engine: **{source}**")
+            if res:
                 st.markdown("### 📊 Prediction Outputs")
                 st.markdown("---")
                 

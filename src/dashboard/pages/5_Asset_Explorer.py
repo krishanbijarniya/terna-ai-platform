@@ -9,26 +9,14 @@ st.title("📍 Grid Asset Explorer & Risk Rankings")
 st.markdown("Query, filter, and inspect specific grid transmission assets, their historical downtime profiles, and composite risk metrics.")
 st.markdown("---")
 
-API_BASE_URL = "http://127.0.0.1:8000"
+from src.dashboard.utils import get_assets_list, get_risk_rankings
 
 col1, col2 = st.columns(2)
 
 # Load assets database from API
-try:
-    response_assets = requests.get(f"{API_BASE_URL}/assets?limit=500", timeout=5)
-    response_risk = requests.get(f"{API_BASE_URL}/risk?limit=15", timeout=5)
-    
-    if response_assets.status_code == 200 and response_risk.status_code == 200:
-        assets_data = response_assets.json()
-        risk_data = response_risk.json()
-    else:
-        st.error("Failed to retrieve asset data from API backend.")
-        assets_data = None
-        risk_data = None
-except Exception as e:
-    st.error(f"Could not connect to FastAPI server asset endpoints: {e}")
-    assets_data = None
-    risk_data = None
+assets_data, source_assets = get_assets_list(limit=500, sort_by="outages")
+risk_data, source_risk = get_risk_rankings(limit=15)
+st.sidebar.info(f"Asset Data Source: **{source_assets}**")
 
 if assets_data and risk_data:
     df_assets = pd.DataFrame(assets_data)

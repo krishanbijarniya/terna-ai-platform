@@ -1,4 +1,176 @@
-# Terna Grid Outage Analytics & Predictive Maintenance Platform
+<!-- Terna Grid Outage Analytics & Predictive Maintenance · README -->
+<div align="center">
+
+<img width="100%" alt="Terna Grid AI header" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:1D4ED8,75:2563EB,100:06B6D4&height=230&section=header&text=Terna%20Grid%20AI&fontSize=54&fontColor=FFFFFF&fontAlignY=40&desc=Outage%20Analytics%20%E2%80%A2%20Predictive%20Maintenance%20%E2%80%A2%20Italian%20Transmission%20Grid&descAlignY=68&descSize=17&animation=fadeIn"/>
+
+<br/>
+
+<img alt="Python" src="https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="ML" src="https://img.shields.io/badge/ML-XGBoost%20%C2%B7%20scikit--learn-189FDD?style=for-the-badge"/>
+<img alt="Tracking" src="https://img.shields.io/badge/Tracking-MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
+<img alt="API" src="https://img.shields.io/badge/API-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img alt="Dashboard" src="https://img.shields.io/badge/Dashboard-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+
+<br/><br/>
+
+<a href="#-overview"><b>Overview</b></a> •
+<a href="#-architecture"><b>Architecture</b></a> •
+<a href="#-engineering-highlights"><b>Highlights</b></a> •
+<a href="#-quick-start"><b>Quick Start</b></a> •
+<a href="#-recruiter-snapshot"><b>Recruiter Snapshot</b></a> •
+<a href="#-contact"><b>Contact</b></a>
+
+</div>
+
+---
+
+<div align="center">
+
+<a href="https://terna-ai-platform-msfn6wl5ifyrq6nulp6t4d.streamlit.app/"><img src="https://img.shields.io/badge/%F0%9F%9A%80%20Live%20Demo-Open%20Dashboard-16A34A?style=for-the-badge" alt="Live demo"/></a>
+
+</div>
+
+# 🧭 Overview
+
+An **end-to-end industrial ML platform** built on public operational data from **Terna**, Italy's electricity transmission system operator. It cleans raw weekly outage logs, engineers **leakage-free rolling features and composite risk scores**, trains **four models**, serves predictions through a **FastAPI** service and presents everything in a **multipage Streamlit dashboard**.
+
+---
+
+# 🏗️ Architecture
+
+<details open>
+<summary><b>🧠 Data → features → models → product (click to collapse)</b></summary>
+
+<br/>
+
+```mermaid
+flowchart LR
+  A["📥 Raw outage &amp;<br/>operational Excels"] --> B["🧹 ETL pipeline"]
+  B --> C["🧬 Feature engineering<br/>temporal · holiday · rolling stats<br/>composite risk score"]
+  C --> D1["🌲 Random Forest<br/>outage duration"]
+  C --> D2["⚡ XGBoost<br/>long-outage risk"]
+  C --> D3["🧭 K-Means<br/>asset segments"]
+  C --> D4["🚨 Isolation Forest<br/>anomalies"]
+  D1 & D2 & D3 & D4 --> E["⚡ FastAPI<br/>/predict · /risk · /assets"]
+  E --> F["📊 Streamlit dashboard<br/>Outages · Grid Status · Prediction<br/>ML Performance · Asset Explorer"]
+```
+
+</details>
+
+
+---
+
+# 📈 Model Results
+
+<details open>
+<summary><b>🏁 Model cockpit (click to collapse)</b></summary>
+
+<br/>
+
+<table>
+<tr>
+<td width="25%" valign="top">
+
+### ⚡ Risk Classifier
+**XGBoost** — outage > 24 h?
+
+Accuracy **78.0%** · F1 **0.767** · ROC-AUC **0.865**
+
+</td>
+<td width="25%" valign="top">
+
+### 🌲 Duration Regressor
+**Random Forest** — outage hours
+
+MAE 427.8 h · R² 0.195 *(hard, heavy-tailed target)*
+
+</td>
+<td width="25%" valign="top">
+
+### 🧭 Segmentation
+**K-Means (k=3)** maintenance behaviour
+
+Silhouette **0.536**
+
+</td>
+<td width="25%" valign="top">
+
+### 🚨 Anomalies
+**Isolation Forest** (5% contamination)
+
+**893** abnormal records flagged
+
+</td>
+</tr>
+</table>
+
+</details>
+
+
+---
+
+# ⚙️ Engineering Highlights
+
+- **Leakage-free features** — rolling statistics computed strictly on past data, verified by tests
+- **Single preprocessing pipeline** (`ColumnTransformer`) shared by training and serving
+- **MLflow** experiment logging and versioned `joblib` model artifacts
+- **Pydantic-validated REST API** with Swagger docs; test suite covering ETL, features, models and API
+
+---
+
+# 🚀 Quick Start
+
+```bash
+pip install -r requirements.txt
+python src/etl/etl_pipeline.py
+python src/feature_engineering/feature_engineering.py
+python src/models/train_models.py
+uvicorn src.api.main:app --port 8000          # API  → /docs
+streamlit run src/dashboard/app.py            # UI   → :8501
+```
+
+---
+
+# 🎯 Recruiter Snapshot
+
+<details open>
+<summary><b>📌 What to remember in 15 seconds (click to collapse)</b></summary>
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ✅ Demonstrated
+- Real-world industrial data, end to end
+- Supervised + unsupervised ML
+- API serving & deployed dashboard
+- Testing and experiment tracking
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 Why it matters
+- Prioritises maintenance on high-risk assets
+- Honest metric reporting
+- Live and explorable today
+
+</td>
+</tr>
+</table>
+
+</details>
+
+
+---
+
+# 📚 Full Technical Documentation
+
+<details>
+<summary><b>🛠️ Setup, configuration, API reference and implementation details (click to expand)</b></summary>
+
+<br/>
 
 An enterprise-grade, end-to-end industrial machine learning and analytics platform built on public operational datasets from **Terna**, the Italian electricity transmission system operator (TSO). 
 
@@ -147,7 +319,7 @@ Open [http://localhost:8501](http://localhost:8501) in your browser.
 
 ## 🤖 Machine Learning Model Cockpit
 
-1. **Duration Prediction (Regression)**: Trains a `Random Forest Regressor` to predict непрерывный outage hours (`duration_hours`).
+1. **Duration Prediction (Regression)**: Trains a `Random Forest Regressor` to predict continuous outage hours (`duration_hours`).
    * *MAE*: 427.80 hours
    * *R² Score*: 0.195
 2. **Risk Classification (Classification)**: Trains an `XGBoost Classifier` to predict if an outage will exceed 24 hours (`is_long`).
@@ -170,3 +342,23 @@ $env:PYTHONPATH="."
 pytest
 ```
 All tests assert data validation ranges, ensure no data leakage on rolling features, and check API request schemas.
+
+</details>
+
+
+---
+
+# 📬 Contact
+
+<div align="center">
+
+**Krishan Kumar** — AI Engineer & Data Scientist · Rome, Italy
+
+<a href="https://www.linkedin.com/in/krishan-kumar-ml/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:krishbijarniya@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://krishan-kumar-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://github.com/krishanbijarniya"><img src="https://img.shields.io/badge/More%20projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:1D4ED8,100:0F172A&height=120&section=footer" alt=""/>
